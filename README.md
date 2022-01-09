@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Jazmin!
 ===============	
 <a name="intro"></a>
-I'm a Software Engineer and a recent graduate of the Grace Hopper Program at Fullstack Academy. Before transitioning to web development, I led the Online Survey Program at NewtonX. I joined the NewtonX team early on as an Operations Associate and took on the company's largest client and first survey project. Soon after, I learned how to code online surveys (Qualtrics and Decipher) and became the sole survey coder for NewtonX. It was the transition from data operations to survey coding that opened my eyes to change courses and fully delve into programming.
+I'm a Software Engineer and a recent graduate of the Grace Hopper Program at Fullstack Academy. Before transitioning to web development, I led the Online Survey Program at NewtonX. I joined the NewtonX team early on as an Operations Associate and took on the company's largest client and first survey tracker. Soon after, I learned how to code online surveys (Qualtrics and Decipher) and established the Survey Coding team. It was the transition to survey coding that motivated me to change courses and fully delve into programming.
 
 ## 🛠  Technologies and tools
 <a name="tech-tools"></a>
