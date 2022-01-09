@@ -63,10 +63,10 @@ I'm a Software Engineer and a recent graduate of the Grace Hopper Program at Ful
 [<img src="https://img.shields.io/badge/Twitter Search API-282C34?logo=twitter&logoColor=#1DA1F2" alt="Twitter Search API logo" title="Twitter" height="25" />][tech_tools_anchor]
 
 ## ⚡ Fun facts
-* I'm a first-gen American so my first language is Spanish 🇪🇨
+* I'm a first-gen American and so my first language is Spanish 🇪🇨
 * I ran the New York City Marathon in 2016 with only 2 months notice to train 😅 🏃‍
 * I like to stay active with hot yoga and boxing 🧘
-* MY favorite puzzle game is sudoku 🔢 
+* MY favorite puzzle game is Sudoku 🔢 
 * My favorite genres to read are magical realism and philosophy ✨
 
 [tech_tools_anchor]: #intro--
