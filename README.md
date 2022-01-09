@@ -2,8 +2,6 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-<br/><br/>
-
 <a href="https://github.com/jazfeijoo">
   <img align="right" alt="Braydon's Github" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" />
 </a>
