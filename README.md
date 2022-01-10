@@ -64,7 +64,7 @@ I'm a Software Engineer and a recent graduate of the Grace Hopper Program at Ful
 * I'm a first-gen American and so my first language is Spanish 🇪🇨
 * I ran the New York City Marathon in 2016 with only 2 months notice to train 😅 🏃‍
 * I like to stay active with hot yoga and boxing 🧘
-* MY favorite puzzle game is Sudoku 🔢 
+* My favorite puzzle game is Sudoku 🔢 
 * My favorite genres to read are magical realism and philosophy ✨
 
 [tech_tools_anchor]: #intro--
