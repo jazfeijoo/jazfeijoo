@@ -63,7 +63,7 @@ I'm a Frontend Developer at GoCoach (2022) and a graduate of the Grace Hopper Pr
 ## ⚡ Fun facts
 * I'm a first-gen American and my first language is Spanish 🇪🇨
 * I ran the New York City Marathon in 2016 with only 2 months notice to train 😅 🏃‍
-* I like to stay active with hot yoga and boxing 🧘
+* I like to stay active with yoga and boxing 🧘
 * My favorite puzzle game is Sudoku 🔢 
 * My favorite genres to read are magical realism and philosophy ✨
 
