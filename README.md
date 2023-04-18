@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Jazmin!
 ===============	
 <a name="intro"></a>
-I'm a Frontend Developer at GoCoach (2022) and a graduate of the Grace Hopper Program at Fullstack Academy (2021). Before transitioning to web development, I led the Online Survey Program at NewtonX. I joined the NewtonX team early on as an Operations Associate but quickly transitioned to exclusively work on online surveys. Once I developed and standardized E2E processes for survey management, I learned how to code surveys and established the Survey Coding team to expand NX survey design services. It was the transition to survey coding that motivated me to change courses and fully delve into programming. 
+I'm a Frontend Developer at GoCoach (2022) and a graduate of the Grace Hopper Program at Fullstack Academy (2021). Before transitioning to web development, I led the Online Survey Program at NewtonX. I joined the NewtonX team early on as an Operations Associate but quickly transitioned to exclusively work on online surveys. Once I developed and standardized E2E processes for survey management, I learned how to code surveys and established the Survey Coding team to expand NX survey design services. It was this transition to survey coding that motivated me to change courses and fully delve into software engineering. 
 
 ## 🛠  Technologies and tools
 <a name="tech-tools"></a>
