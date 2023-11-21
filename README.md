@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Jazmin!
 ===============	
 <a name="intro"></a>
-I'm a Software Engineer with previous expereince in data insights and management. I joined SkillCycle in 2022 as a Junior Front-end Software Engineer and was quickly promoted to Frontend Engineer within a few months. Before transitioning to web development, I led the Online Survey Program at NewtonX, a B2B start-up in the Research space. 
+Highly motivated tech professional with experience in fast-paced series A startups. As an engineer at SkillCycle, I designed a new survey feature that was critical to the tech roadmap and company rebrand. Before transitioning to web development, I created and led the Survey team at NewtonX, a B2B market research company. I excel at building relationships, problem-solving, and identifying opportunities.
 
 ## 🛠  Technologies and tools
 <a name="tech-tools"></a>
